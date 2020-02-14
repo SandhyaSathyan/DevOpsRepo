@@ -1,5 +1,0 @@
-First document 
-
-hi 
-hello
-this is the first file for adding to git
